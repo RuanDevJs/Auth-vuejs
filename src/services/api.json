@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "id": "12381yhjndasjuasd7asd",
+            "email": "ruan@hotmail.com",
+            "username": "Ruan Vitor",
+            "password": "123"
+        },
+        {
+            "id": "zxmkdasd8asy6d6ad",
+            "email": "franky@hotmail.com",
+            "username": "Katiflan",
+            "password": "123"
+        },
+        {
+            "id": "skdasd97237q625bcvaas",
+            "email": "clayton@hotmail.com",
+            "username": "Clayton Robson",
+            "password": "123"
+        }
+    ]
+}
